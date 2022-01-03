@@ -1,4 +1,4 @@
 # Todo---React JS
 Functional
--Add a task (Title,Description)
--Remove a task
+- Add a task (Title,Description)
+- Remove a task
